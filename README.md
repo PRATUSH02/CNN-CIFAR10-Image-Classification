@@ -46,5 +46,4 @@ The dataset is not included in this repository. The `Data/` folder is excluded u
 CNN-CIFAR10-Image-Classification/
 │
 ├── CNN_for_CIFAR10.ipynb
-├── .gitignore
 └── README.md
